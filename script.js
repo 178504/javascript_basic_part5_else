@@ -6,7 +6,7 @@
 
 //3. 数値型を比較してelseの処理に入る処理を作ってください。
 var variableNumber = 178;
-if(variableNumber){
+if(false){
   console.log("trueの処理");
   console.log(variableNumber);
 }else{
@@ -15,7 +15,7 @@ if(variableNumber){
 };
 //4. 文字列型を比較してelseの処理に入る処理を作ってください。
 var variableText = "text";
-if(variableText){
+if(false){
   console.log("trueの処理");
   console.log(variableText);
 }else{
